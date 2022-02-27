@@ -1,0 +1,4 @@
+@INCLUDE        = ../../doxygen/doxygen.conf
+PROJECT_NAME    = "dbk3-js52-ajsun2-walkerr2"
+PROJECT_BRIEF   = "Fractionalized Final Projects"
+EXTRACT_PRIVATE = YES
