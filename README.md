@@ -1,6 +1,6 @@
-# README (dbk3-js52-ajsun2-walkerr2)
+# README
 
-## Welcome to Our Project! Outlined below is the most important information for the project.
+## Welcome to My Project! Outlined below is the most important information for the project.
 
 ### 1. Locations
 Code:
