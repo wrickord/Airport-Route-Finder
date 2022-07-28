@@ -1,6 +1,6 @@
 # README
 
-## Welcome to My Project! Outlined below is the most important information for the project.
+## Airport Route Finder
 
 ### 1. Locations
 Code:
@@ -87,4 +87,3 @@ Running:
 General Description of Tests:
 - The tests set up several sample graphs and run the three algorithms and traversals.
 - As mentioned, the graph visualizations are available in the tests directory.
-# Airport-Route-Finder
